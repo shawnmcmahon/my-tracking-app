@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8xVPK4HKWzGoIM4RslxZlw5S41M4xLMJk1YfSB9OqOOzEKvDUz8q9kWZZVZWkTwxALTbUD2bSOBXgdw1NY8xIQ==",
+  "dgSpecHash": "zCIpN7lWiKa8wKMjNX7Z5+4xONSp5eGJvyf5iEBZCOS2egt6HafFAf7iy+A7sSPDK7VhbUzg8cwe75N2T/FdEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapi\\tracking.client\\tracking.client.csproj",
+  "projectFilePath": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapp\\tracking.client\\tracking.client.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

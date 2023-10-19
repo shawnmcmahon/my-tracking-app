@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fQ44RekxmspN2RzuXjEE4AhTbIQxlSMBMJrkvjIKy8SW0XASGmf4FxHWfsGHUoAbPeMIU9N95hD1MGvnxGRxPg==",
+  "dgSpecHash": "xNq6KuIW2sMLnOa6g3HOoQK8Fi8kRJdLeWX2zOyj3sH/Z0AkS5OqR7CfxPtBpHfCwOX7nb0AkQElmq4fnO1kvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapi\\tracking\\tracking.csproj",
+  "projectFilePath": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapp\\tracking\\tracking.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mcmahosh\\.nuget\\packages\\humanizer\\2.13.14\\humanizer.2.13.14.nupkg.sha512",
     "C:\\Users\\mcmahosh\\.nuget\\packages\\humanizer.core\\2.13.14\\humanizer.core.2.13.14.nupkg.sha512",

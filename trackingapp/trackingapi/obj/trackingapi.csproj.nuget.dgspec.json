@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapi\\trackingapi\\trackingapi.csproj": {}
+    "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapp\\trackingapi\\trackingapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapi\\trackingapi\\trackingapi.csproj": {
+    "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapp\\trackingapi\\trackingapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapi\\trackingapi\\trackingapi.csproj",
+        "projectUniqueName": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapp\\trackingapi\\trackingapi.csproj",
         "projectName": "trackingapi",
-        "projectPath": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapi\\trackingapi\\trackingapi.csproj",
+        "projectPath": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapp\\trackingapi\\trackingapi.csproj",
         "packagesPath": "C:\\Users\\mcmahosh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapi\\trackingapi\\obj\\",
+        "outputPath": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapp\\trackingapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

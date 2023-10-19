@@ -3331,11 +3331,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapi\\tracking\\tracking.csproj",
+      "projectUniqueName": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapp\\tracking\\tracking.csproj",
       "projectName": "tracking",
-      "projectPath": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapi\\tracking\\tracking.csproj",
+      "projectPath": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapp\\tracking\\tracking.csproj",
       "packagesPath": "C:\\Users\\mcmahosh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapi\\tracking\\obj\\",
+      "outputPath": "C:\\Users\\mcmahosh\\Documents\\Tickets\\QQ-Dev\\H - IP Sprint 2\\trackingapp\\tracking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
