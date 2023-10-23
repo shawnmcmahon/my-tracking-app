@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "trackingapi", "trackingapi\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tracking.client", "tracking.client\tracking.client.csproj", "{B7E3C95E-F2CA-415F-A9DD-B247D74FE65C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tracking", "tracking\tracking.csproj", "{22C11AD5-FF31-4CC2-A303-B3C49AAABF17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tracking", "tracking\tracking.csproj", "{22C11AD5-FF31-4CC2-A303-B3C49AAABF17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
