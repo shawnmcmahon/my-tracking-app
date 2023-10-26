@@ -12,8 +12,9 @@ namespace tracking.Pages.Issues
         public NewModel(IssueDbContext context) => _context = context;
         public async Task<IActionResult> OnPost()
         {
-
+            // Server side validation using model state
             if (!ModelState.IsValid) return Page();
+            //
 
             Issue.Created = DateTime.Now;
             await _context.Issues.AddAsync(Issue); 
